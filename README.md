@@ -13,10 +13,9 @@
 ---
 ## CONTENTS
  1. Introduction
- 2. Data Annotation
- 3. Feedback
- 4. Citation Info
- 5. Acknowledgments
+ 2. Feedback
+ 3. Citation Info
+ 4. Acknowledgments
 ---
 
 ## 1. Introduction
@@ -34,7 +33,7 @@ If you want to know how this dataset was build (include the explanation of crawl
 
 ---
 
-## 4. Citation Info
+## 3. Citation Info
 This dataset and the other resource can be used for free, but if you want to publish paper/publication using this dataset, please cite this publication:
 ```
 @article{Maazaug2020,
@@ -46,6 +45,6 @@ year = {2020}
 ```
 ---
 
-## 5. Acknowledgments
+## 4. Acknowledgments
 The work was done with partial support of CONACYT project 240844 and SIP-IPN projects 20195719.
 
