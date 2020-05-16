@@ -37,9 +37,10 @@ If you want to know how this dataset was build (include the explanation of crawl
 This dataset and the other resource can be used for free, but if you want to publish paper/publication using this dataset, please cite this publication:
 ```
 @article{Maazaug2020,
-author = { Maaz Amjad, Grigori Sidorov, Alisa Zhila},
-title = { Annotated Fake News Dataset in Urdu and Augmentation using Machine Translation},
-journal = {},
+author = {Maaz Amjad, Grigori Sidorov, Alisa Zhila},
+title = {Annotated Fake News Dataset in Urdu and Augmentation using Machine Translation},
+conference = {Proceedings of the 12th Conference on Language Resources and Evaluation (LREC 2020)},
+page = {2530–2535}
 year = {2020}
 }
 ```
